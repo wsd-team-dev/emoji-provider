@@ -1,3 +1,5 @@
+**NOTE: Forked as original author is non-responsive.**
+
 # emoji-provider
 Adds a simple way of generating emojis to your front-end application. Do you need emojis for a chat application? Maybe you want to convert emoticons to emojis in text? Look no further! Currently supports emojis up to **Unicode Version 15**.
 
@@ -185,3 +187,4 @@ console.log(emojis)
 # Want to contribute?
 See [DEVELOPER.md](https://github.com/emiliaajax/emoji-provider/blob/main/DEVELOPER.md) for project information and contribution details.
 
+**
