@@ -1,7 +1,7 @@
 {
   "name": "@wsd-team-dev/emoji-provider",
   "description": "Adds a simple way of generating emojis",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "type": "module",
   "main": "./lib/index.js",
   "scripts": {
@@ -20,14 +20,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emiliaajax/emoji-provider.git"
+    "url": "git+https://github.com/wsd-team-dev/emoji-provider.git"
   },
   "author": "Emilia Hansson <eh222yn@student.lnu.se>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emiliaajax/emoji-provider/issues"
+    "url": "https://github.com/wsd-team-dev/emoji-provider/issues"
   },
-  "homepage": "https://github.com/emiliaajax/emoji-provider#readme",
+  "homepage": "https://github.com/wsd-team-dev/emoji-provider#readme",
   "devDependencies": {
     "eslint": "^8.24.0",
     "eslint-config-standard": "^17.0.0",
