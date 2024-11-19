@@ -1,5 +1,5 @@
 {
-  "name": "emoji-provider",
+  "name": "@wsd-team-dev/emoji-provider",
   "description": "Adds a simple way of generating emojis",
   "version": "1.0.7",
   "type": "module",
